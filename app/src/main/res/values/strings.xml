@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Report Card</string>
+
+    <!-- text TextViews -->
+    <string name="text_form_grade_result">(NC + PC + EM + EB) / 4</string>
+    <string name="text_form_evaluation">Fórmula de calificación:</string>
+    <string name="text_type_assignment">Tipo de evaluación</string>
+    <string name="text_grades">Notas</string>
+</resources>
